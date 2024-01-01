@@ -7,7 +7,7 @@
 
 <h3 align="center">Eat -> code -> sleep -> repeat</h3>
 <br/>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://camo.githubusercontent.com/f2799009798404f46d3329867a8b18a68036a2e94aa37a597571f719e3a1b494/68747470733a2f2f76696468692d6d6f64792e6769746875622e696f2f696d672f636f6e747269627574652e676966" width="230">
 <p>🎓Computer Science Engineering Student at <a href="http://nsec.ac.in">Netaji Subhash Engineering College </em></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somasridey&label=Profile%20views&color=0e75b6&style=flat" alt="somasridey" /> </p>
